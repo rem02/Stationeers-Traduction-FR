@@ -966,10 +966,6 @@
       <Value>Kit (Capteur)</Value>
     </Record>
     <Record>
-      <Key>ItemKitSign</Key>
-      <Value>Kit (Panneau de Structure)</Value>
-    </Record>
-    <Record>
       <Key>ItemKitSleeper</Key>
       <Value>Kit (Sleeper)</Value>
     </Record>
@@ -1637,7 +1633,7 @@
       <Key>StructureStacker</Key>
       <Value>Empileur</Value>
     </Record>
-	  <Record>
+    <Record>
       <Key>StructureStackerReverse</Key>
       <Value>Empileur (Inversé)</Value>
     </Record>
@@ -2053,7 +2049,7 @@
       <Key>ItemGasSensor</Key>
       <Value>Capteur de gaz</Value>
     </Record>
-	  <Record>
+    <Record>
       <Key>ItemBeacon</Key>
       <Value>Balise</Value>
     </Record>
@@ -2140,10 +2136,6 @@
     <Record>
       <Key>StructureSign1x1</Key>
       <Value>Panneau de Structure 1x1</Value>
-    </Record>
-    <Record>
-      <Key>StructureSign2x1</Key>
-      <Value>Panneau de Structure 2x1</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
