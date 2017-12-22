@@ -2161,6 +2161,14 @@
       <Key>StructureLogicMathUnary</Key>
       <Value>Fonction Mathématique</Value>
     </Record>
+    <Record>
+      <Key>StructureRecycler</Key>
+      <Value>Recycleur</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitRecycler</Key>
+      <Value>Kit (Recycleur)</Value>
+    </Record>	  
   </Things>
   <Slots>
     <Record>
