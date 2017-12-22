@@ -1,5 +1,5 @@
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Created by CedricS and  [FR]Rem For Stationeers v0.1.1027.5176 -->
+<!-- Created by CedricS and [FR]Rem For Stationeers -->
 	<Code>FR</Code>
 	<Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
 	<GameTip>
