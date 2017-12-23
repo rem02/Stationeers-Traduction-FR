@@ -966,6 +966,10 @@
       <Value>Kit (Capteur)</Value>
     </Record>
     <Record>
+      <Key>ItemKitSign</Key>
+      <Value>Kit (Indication)</Value>
+    </Record>
+    <Record>
       <Key>ItemKitSleeper</Key>
       <Value>Kit (Sleeper)</Value>
     </Record>
@@ -1823,7 +1827,7 @@
     </Record>
     <Record>
       <Key>StructureChuteWindow</Key>
-      <Value>Fenêtre Gaine de Structure</Value>
+      <Value>Gaine (Fenêtre)</Value>
     </Record>
     <Record>
       <Key>StructureArcFurnace</Key>
