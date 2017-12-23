@@ -3262,7 +3262,7 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Le placement n'est autorisé que sur les &lt;color=yellow&gt;{THING:ItemIronFrames}&lt;/color&gt; et &lt;color=yellow&gt;{THING:StructureFrame}&lt;/color&gt; directement. Si ceux-ci sont améliorés, ils offriront de meilleures options de placement.</Value>
+      <Value>Le placement n'est autorisé que sur les &lt;color=yellow&gt;{THING:StructureFrameIron}&lt;/color&gt; et &lt;color=yellow&gt;{THING:StructureFrame}&lt;/color&gt; directement. Si ceux-ci sont améliorés, ils offriront de meilleures options de placement.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
@@ -3282,7 +3282,7 @@
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>Opacité de l'info-bulle</Value>
+      <Value>Opacité de l'Info-Bulle</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
