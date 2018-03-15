@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <!-- Created by CedricS and [FR]Rem For Stationeers -->
   <Name>French</Name>
   <Code>FR</Code>
-  <Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
+  <Font>font_extended</Font>
   <Reagents>
     <RecordReagent>
       <Key>Flour</Key>
@@ -18,7 +18,7 @@
     <RecordReagent>
       <Key>Egg</Key>
       <Value>Oeuf</Value>
-      <Unit />
+      <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
@@ -114,6 +114,11 @@
       <Key>Oil</Key>
       <Value>Pétrole</Value><!-- A voir in  game le contexte et choisir entre Huile et pétrol -->
       <Unit>ml</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Potato</Key>
+      <Value>Pomme de terre</Value>
+      <Unit/>
     </RecordReagent>
   </Reagents>
   <Gases>
@@ -287,7 +292,7 @@
   <Things>
     <Record>
       <Key>ApplianceMicrowave</Key>
-      <Value>Micro onde</Value>
+      <Value>Micro-onde</Value>
     </Record>
     <Record>
       <Key>ApplianceReagentProcessor</Key>
@@ -295,223 +300,223 @@
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmL</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Bras G</Value>
+      <Value>Bras Gauche Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleArmR</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Bras D</Value>
+      <Value>Bras Droit Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleHead</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Tête</Value>
+      <Value>Tête Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleLegL</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Jambe G</Value>
+      <Value>Jambe Gauche Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleLegR</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Jambe D</Value>
+      <Value>Jambe Droid Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautFemaleTorso</Key>
-      <Value>Partie du corps d'Astronaute Femmelle: Torse</Value>
+      <Value>Torse Femme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleArmL</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Bras G</Value>
+      <Value>Bras Gauche Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleArmR</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Bras D</Value>
+      <Value>Bras Droite Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleHead</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Tête</Value>
+      <Value>Tête Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleLegL</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Jambe G</Value>
+      <Value>Jambe Gauche Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartAstronautMaleLegR</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Jambe D</Value>
+      <Value>Jambe Droite Mâle</Value>      
     </Record>
     <Record>
       <Key>BodyPartAstronautTorso</Key>
-      <Value>Partie du corps d'Astronaute Mâle: Torse</Value>
+      <Value>Torse Homme</Value>
     </Record>
     <Record>
       <Key>BodyPartChickBody</Key>
-      <Value>Partie du corps Poussin: Tronc</Value>
+      <Value>Corps de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownBody</Key>
-      <Value>Partie du Corps de Poulet Brun: Tronc</Value>
+      <Value>Corps de Poulet</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownHead</Key>
-      <Value>Partie du Corps de Poulet Brun: Tête</Value>
+      <Value>Tête de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownLegL</Key>
-      <Value>Partie du Corps de Poulet Brun: Jambe G</Value>
+      <Value>Patte Gauche de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownLegR</Key>
-      <Value>Partie du Corps de Poulet Brun: Jambe D</Value>
+      <Value>Patte Droite de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownTail</Key>
-      <Value>Partie du Corps de Poulet Brun: Queue</Value>
+      <Value>Queue de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownWingL</Key>
-      <Value>Partie du Corps de Poulet Brun: Aile G</Value>
+      <Value>Aile Gauche de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenBrownWingR</Key>
-      <Value>Partie du Corps de Poulet Brun: Aile D</Value>
+      <Value>Aile Droite de Poulet Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteBody</Key>
-      <Value>Partie du Corps de Poulet Blanc: Tronc</Value>
+      <Value>Corps de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteHead</Key>
-      <Value>Partie du Corps de Poulet Blanc: Tête</Value>
+      <Value>Tête de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteLegL</Key>
-      <Value>Partie du Corps de Poulet Blanc: Jambe G</Value>
+      <Value>Jambe Gauche de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteLegR</Key>
-      <Value>Partie du Corps de Poulet Blanc: Jambe D</Value>
+      <Value>Jambe Droite de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteTail</Key>
-      <Value>Partie du Corps de Poulet Blanc: Queue</Value>
+      <Value>Queue de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteWingL</Key>
-      <Value>Partie du Corps de Poulet Blanc: Aile G</Value>
+      <Value>Aile Gauche de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickenWhiteWingR</Key>
-      <Value>Partie du Corps de Poulet Blanc: Aile D</Value>
+      <Value>Aile Droite de Poulet Blanc</Value>
     </Record>
     <Record>
       <Key>BodyPartChickHead</Key>
-      <Value>Partie du corps Poussin: Tête</Value>
+      <Value>Tête de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickLegL</Key>
-      <Value>Partie du corps Poussin: Patte G</Value>
+      <Value>Patte Gauche de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickLegR</Key>
-      <Value>Partie du corps Poussin: Patte D</Value>
+      <Value>Patte Droite de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickTail</Key>
-      <Value>Partie du corps Poussin: Queue</Value>
+      <Value>Queue de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickWingL</Key>
-      <Value>Partie du corps Poussin: Aile G</Value>
+      <Value>Aile Gauche de Poussin</Value>
     </Record>
     <Record>
       <Key>BodyPartChickWingR</Key>
-      <Value>Partie du corps Poussin: Aile D</Value>
+      <Value>Aile Droite de Poussin</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienArmL </Key>
-      <Value>Partie du Corps Graylien: Bras G </Value>
+      <Key>BodyPartGraylienArmL</Key>
+      <Value>Bras Gauche d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienArmR </Key>
-      <Value>Partie du Corps Graylien: Bras D </Value>
+      <Key>BodyPartGraylienArmR</Key>
+      <Value>Bras Droite d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienBody </Key>
-      <Value>Partie du Corps Graylien: Tronc </Value>
+      <Key>BodyPartGraylienBody</Key>
+      <Value>Corps d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienHead </Key>
-      <Value>Partie du Corps Graylien: Tête </Value>
+      <Key>BodyPartGraylienHead</Key>
+      <Value>Tête d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienLegL </Key>
-      <Value>Partie du Corps Graylien: Jambe G </Value>
+      <Key>BodyPartGraylienLegL</Key>
+      <Value>Jambe Gauche d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienLegR </Key>
-      <Value>Partie du Corps Graylien: Jambe D </Value>
+      <Key>BodyPartGraylienLegR</Key>
+      <Value>Jambe Droite d'Extraterrestre Gris</Value>
     </Record>
     <Record>
-      <Key>BodyPartGraylienPelvis </Key>
-      <Value>Partie du Corps Graylien: Pelvis </Value>
+      <Key>BodyPartGraylienPelvis</Key>
+      <Value>Pelvis d'Extraterrestre Gris</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackBody</Key>
-      <Value>Partie du Corps Coq Noir: Tronc</Value>
+      <Value>Corps de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackHead</Key>
-      <Value>Partie du Corps Coq Noir: Tête</Value>
+      <Value>Tête de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackLegL</Key>
-      <Value>Partie du Corps Coq Noir: Patte G</Value>
+      <Value>Patte Gauche de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackLegR</Key>
-      <Value>Partie du Corps Coq Noir: Patte D</Value>
+      <Value>Patte Droite de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackTail</Key>
-      <Value>Partie du Corps Coq Noir: Queue</Value>
+      <Value>Queue de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackWingL</Key>
-      <Value>Partie du Corps Coq Noir: Aile G</Value>
+      <Value>Aile Gauche de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBlackWingR</Key>
-      <Value>Partie du Corps Coq Noir: Aile D</Value>
+      <Value>Aile Droite de Coq Noir</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownBody</Key>
-      <Value>Partie du Corps Coq Brun: Tronc</Value>
+      <Value>Corps de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownHead</Key>
-      <Value>Partie du Corps Coq Brun: Tête</Value>
+      <Value>Tête de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownLegL</Key>
-      <Value>Partie du Corps Coq Brun: Patte G</Value>
+      <Value>Patte Gauche de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownLegR</Key>
-      <Value>Partie du Corps Coq Brun: Patte D</Value>
+      <Value>Patte Droite de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownTail</Key>
-      <Value>Partie du Corps Coq Brun: Queue</Value>
+      <Value>Queue de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownWingL</Key>
-      <Value>Partie du Corps Coq Brun: Aile G</Value>
+      <Value>Aile Gauche de Coq Brun</Value>
     </Record>
     <Record>
       <Key>BodyPartRoosterBrownWingR</Key>
-      <Value>Partie du Corps Coq Brun: Aile D</Value>
+      <Value>Aile Droite de Coq Brun</Value>
     </Record>
     <Record>
       <Key>CartridgeAtmosAnalyser</Key>
-      <Value>Carte (Analyseur Atmos)</Value>
+      <Value>Carte (Analyseur Atmosphérique)</Value>
     </Record>
     <Record>
       <Key>CartridgeMedicalAnalyser</Key>
@@ -519,7 +524,7 @@
     </Record>
     <Record>
       <Key>CartridgeNetworkAnalyser</Key>
-      <Value>Carte(Analyseur Réseau)</Value>
+      <Value>Carte (Analyseur Réseau)</Value>
     </Record>
     <Record>
       <Key>Character</Key>
@@ -535,7 +540,7 @@
     </Record>
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
-      <Value>Circuit Imprimé (affichage de la Caméra)</Value>
+      <Value>Circuit Imprimé (Affichage de la Caméra)</Value>
     </Record>
     <Record>
       <Key>CircuitboardDoorControl</Key>
@@ -543,7 +548,7 @@
     </Record>
     <Record>
       <Key>CircuitboardGasDisplay</Key>
-      <Value>Circuit Imprimé  (affichage de Gaz)</Value>
+      <Value>Circuit Imprimé (Affichage de Gaz)</Value>
     </Record>
     <Record>
       <Key>CircuitboardModeControl</Key>
@@ -571,7 +576,7 @@
     </Record>
     <Record>
       <Key>DynamicCrateBuildingSupplies</Key>
-      <Value>Caisse (Matériaux de construction)</Value>
+      <Value>Caisse (Fournitures de Construction)</Value>
     </Record>
     <Record>
       <Key>DynamicCrateCableSupplies</Key>
@@ -619,7 +624,7 @@
     </Record>
     <Record>
       <Key>DynamicGenerator</Key>
-      <Value>Générateur portable</Value>
+      <Value>Générateur Mobile</Value>
     </Record>
     <Record>
       <Key>DynamicLight</Key>
@@ -627,11 +632,11 @@
     </Record>
     <Record>
       <Key>DynamicScrubber</Key>
-      <Value>Épurateur d'Air Portatif</Value>
+      <Value>Épurateur d'Air Mobile</Value>
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
-      <Value>Effect Splat Egg</Value>
+      <Value>Effet d'Oeuf Écrasé</Value>
     </Record>
     <Record>
       <Key>EntityAlien</Key>
@@ -663,7 +668,7 @@
     </Record>
     <Record>
       <Key>GasTankAir</Key>
-      <Value>Réservoir de gaz (Air)</Value>
+      <Value>Réservoir de Gaz (Air)</Value>
     </Record>
     <Record>
       <Key>ItemActiveVent</Key>
@@ -675,15 +680,15 @@
     </Record>
     <Record>
       <Key>ItemBatteryCell</Key>
-      <Value>Batterie (petite)</Value>
+      <Value>Batterie (Petite)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellLarge</Key>
-      <Value>Batterie (grande)</Value>
+      <Value>Batterie (Grande)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCellNuclear</Key>
-      <Value>Batterie (nucleaire)</Value>
+      <Value>Batterie (Nucléaire)</Value>
     </Record>
     <Record>
       <Key>ItemBatteryCharger</Key>
@@ -735,7 +740,7 @@
     </Record>
     <Record>
       <Key>ItemCorn</Key>
-      <Value>Blé</Value>
+      <Value>Maïs</Value>
     </Record>
     <Record>
       <Key>ItemCrowbar</Key>
@@ -743,7 +748,7 @@
     </Record>
     <Record>
       <Key>ItemDataDisk</Key>
-      <Value>Disque de donnees</Value>
+      <Value>Disque de Données</Value>
     </Record>
     <Record>
       <Key>ItemDrill</Key>
@@ -763,15 +768,15 @@
     </Record>
     <Record>
       <Key>ItemEggBottom</Key>
-      <Value>Fond d'oeuf</Value>
+      <Value>Coquille (Bas)</Value>
     </Record>
     <Record>
       <Key>ItemEggCarton</Key>
-      <Value>Carton d'oeufs</Value>
+      <Value>Carton d'Oeufs</Value>
     </Record>
     <Record>
       <Key>ItemEggTop</Key>
-      <Value>Oeuf Top</Value>
+      <Value>Coquille (Haut)</Value>
     </Record>
     <Record>
       <Key>ItemEvaSuit</Key>
@@ -787,7 +792,7 @@
     </Record>
     <Record>
       <Key>ItemFlashingLight</Key>
-      <Value>Lumière aveuglante</Value>
+      <Value>Gyrophare</Value>
     </Record>
     <Record>
       <Key>ItemFlour</Key>
@@ -799,7 +804,7 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>Recipient sous pression (polluants)</Value>
+      <Value>Recipient sous pression (Polluants)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterEmpty</Key>
@@ -851,7 +856,7 @@
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
-      <Value>Stockage de Réservoir de Gaz</Value>
+      <Value>Connecteur de Réservoir</Value>
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
@@ -879,7 +884,7 @@
     </Record>
     <Record>
       <Key>ItemHydroponicTray</Key>
-      <Value>Plateau hydroponique</Value>
+      <Value>Plateau Hydroponique</Value>
     </Record>
     <Record>
       <Key>ItemIce</Key>
@@ -903,11 +908,11 @@
     </Record>
     <Record>
       <Key>ItemKitAirlock</Key>
-      <Value>Kit Porte (SAS)</Value>
+      <Value>Kit (SAS)</Value>
     </Record>
     <Record>
       <Key>ItemKitAtmospherics</Key>
-      <Value>Kit (Atmospherics)</Value>
+      <Value>Kit (Atmosphérique)</Value>
     </Record>
     <Record>
       <Key>ItemKitBattery</Key>
@@ -927,11 +932,11 @@
     </Record>
     <Record>
       <Key>ItemKitConsole</Key>
-      <Value>Kit (Consoles)</Value>
+      <Value>Kit (Console)</Value>
     </Record>
     <Record>
       <Key>ItemKitConveyor</Key>
-      <Value>Kit (Convoyeurs)</Value>
+      <Value>Kit (Convoyeur)</Value>
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
@@ -939,7 +944,7 @@
     </Record>
     <Record>
       <Key>ItemKitEngine</Key>
-      <Value>Kit (Moteurs)</Value>
+      <Value>Kit (Moteur à Réaction)</Value>
     </Record>
     <Record>
       <Key>ItemKitFabricator</Key>
@@ -963,15 +968,15 @@
     </Record>
     <Record>
       <Key>ItemKitSensor</Key>
-      <Value>Kit (Capteurs)</Value>
+      <Value>Kit (Capteur)</Value>
     </Record>
     <Record>
       <Key>ItemKitSign</Key>
-      <Value>Kit (Panneaux de Structure)</Value>
+      <Value>Kit (Panneaux d'Indication)</Value>
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
-      <Value>Kit (Sleeper)</Value>
+      <Value>Kit (Couchette)</Value>
     </Record>
     <Record>
       <Key>ItemKitSolarPanel</Key>
@@ -979,11 +984,11 @@
     </Record>
     <Record>
       <Key>ItemKitStairs</Key>
-      <Value>Kit (Escaliers)</Value>
+      <Value>Kit (Escalier)</Value>
     </Record>
     <Record>
       <Key>ItemKitStellarAnchor</Key>
-      <Value>Kit (ancre stellaire)</Value>
+      <Value>Kit (Ancre Stellaire)</Value>
     </Record>
     <Record>
       <Key>ItemKitStorage</Key>
@@ -1003,7 +1008,7 @@
     </Record>
     <Record>
       <Key>ItemKitWall</Key>
-      <Value>Kit (Murs)</Value>
+      <Value>Kit (Mur)</Value>
     </Record>
     <Record>
       <Key>ItemLabeller</Key>
@@ -1011,7 +1016,7 @@
     </Record>
     <Record>
       <Key>ItemLightSword</Key>
-      <Value>Épée Légère</Value>
+      <Value>Épée Laser</Value>
     </Record>
     <Record>
       <Key>ItemMilk</Key>
@@ -1031,7 +1036,7 @@
     </Record>
     <Record>
       <Key>ItemPassiveVent</Key>
-      <Value>Passive Ventilation</Value>
+      <Value>Ventilation Passive</Value>
     </Record>
     <Record>
       <Key>ItemPickaxe</Key>
@@ -1071,7 +1076,7 @@
     </Record>
     <Record>
       <Key>ItemPipeDigitalValve</Key>
-      <Value>Conduit Digital Valve</Value>
+      <Value>Valve Numérique</Value>
     </Record>
     <Record>
       <Key>ItemPipeGasMixer</Key>
@@ -1079,7 +1084,7 @@
     </Record>
     <Record>
       <Key>ItemPipeLabel</Key>
-      <Value>Conduit Label</Value>
+      <Value>Libellé de Conduit</Value>
     </Record>
     <Record>
       <Key>ItemPipeMeter</Key>
@@ -1091,7 +1096,7 @@
     </Record>
     <Record>
       <Key>ItemPipeStraight</Key>
-      <Value>Conduit (droit)</Value>
+      <Value>Conduit (Droit)</Value>
     </Record>
     <Record>
       <Key>ItemPipeTJunction</Key>
@@ -1103,7 +1108,7 @@
     </Record>
     <Record>
       <Key>ItemPipeVolumePump</Key>
-      <Value>Conduit pompe Volume</Value>
+      <Value>Conduit Pompe Volume</Value>
     </Record>
     <Record>
       <Key>ItemPowerConnector</Key>
@@ -1319,7 +1324,7 @@
     </Record>
     <Record>
       <Key>StructureBatteryCharger</Key>
-      <Value>Chargeur Batterie</Value>
+      <Value>Chargeur de Batterie</Value>
     </Record>
     <Record>
       <Key>StructureBench</Key>
@@ -1451,7 +1456,7 @@
     </Record>
     <Record>
       <Key>StructureConveyorRiser</Key>
-      <Value>Convoyeur (Riser)</Value> <!-- https://fr.wikipedia.org/wiki/Riser -->
+      <Value>Convoyeur (Vertical)</Value> <!-- https://fr.wikipedia.org/wiki/Riser -->
     </Record>
     <Record>
       <Key>StructureConveyorStraight</Key>
@@ -1487,7 +1492,7 @@
     </Record>
     <Record>
       <Key>StructureFlashingLight</Key>
-      <Value>Lumière Aveuglante</Value>
+      <Value>Gyrophare</Value>
     </Record>
     <Record>
       <Key>StructureFrame</Key>
@@ -1499,7 +1504,7 @@
     </Record>
     <Record>
       <Key>StructureFrameSide</Key>
-      <Value>Cadre (Cote)</Value>
+      <Value>Cadre (Côté)</Value>
     </Record>
     <Record>
       <Key>StructureFurnace</Key>
@@ -1507,7 +1512,7 @@
     </Record>
     <Record>
       <Key>StructureGasMixer</Key>
-      <Value>Melangeur de Gaz</Value>
+      <Value>Mélangeur de Gaz</Value>
     </Record>
     <Record>
       <Key>StructureGasSensor</Key>
@@ -1523,7 +1528,7 @@
     </Record>
     <Record>
       <Key>StructureGunTurret</Key>
-      <Value>Emplacement du Pistolet</Value>
+      <Value>Tourelle</Value>
     </Record>
     <Record>
       <Key>StructureGyroscope</Key>
@@ -1547,7 +1552,7 @@
     </Record>
     <Record>
       <Key>StructurePassiveVent</Key>
-      <Value>Vent passif</Value>
+      <Value>Ventilateur Passif</Value>
     </Record>
     <Record>
       <Key>StructurePipeAnalysizer</Key>
@@ -1579,7 +1584,7 @@
     </Record>
     <Record>
       <Key>StructurePipeMeter</Key>
-      <Value>Conduit metre</Value>
+      <Value>Pressiomètre</Value>
     </Record>
     <Record>
       <Key>StructurePipeRadiator</Key>
@@ -1637,7 +1642,7 @@
       <Key>StructureStacker</Key>
       <Value>Empileur</Value>
     </Record>
-	  <Record>
+    <Record>
       <Key>StructureStackerReverse</Key>
       <Value>Empileur (Inversé)</Value>
     </Record>
@@ -1647,7 +1652,7 @@
     </Record>
     <Record>
       <Key>StructureStellarAnchor</Key>
-      <Value>Ancrage Stellaire</Value>
+      <Value>Ancre Stellaire</Value>
     </Record>
     <Record>
       <Key>StructureSuitStorage</Key>
@@ -1691,11 +1696,11 @@
     </Record>
     <Record>
       <Key>StructureWallHeater</Key>
-      <Value>Chauffe Mur</Value>
+      <Value>Chauffage Murale</Value>
     </Record>
     <Record>
       <Key>StructureWallLight</Key>
-      <Value>Lumière Mural</Value>
+      <Value>Lumière Murale</Value>
     </Record>
     <Record>
       <Key>UniformCommander</Key>
@@ -1823,15 +1828,15 @@
     </Record>
     <Record>
       <Key>WeaponPistolEnergy</Key>
-      <Value>Pistolet à Energie</Value>
+      <Value>Pistolet à Énergie</Value>
     </Record>
     <Record>
       <Key>StructureChuteWindow</Key>
-      <Value>Fenêtre Gaine de structure</Value>
+      <Value>Gaine (Fenêtre)</Value>
     </Record>
     <Record>
       <Key>StructureArcFurnace</Key>
-      <Value>Four à arc</Value>
+      <Value>Four à Arc</Value>
     </Record>
     <Record>
       <Key>StructureAutolathe</Key>
@@ -1855,7 +1860,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>Bobine de Câble (Lourd)</Value> <!-- c'est du câble lourd qui est enroulé sur la bobine -->
+      <Value>Bobine de Câble (Lourd)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -1863,7 +1868,7 @@
     </Record>
     <Record>
       <Key>ItemIronFrames</Key>
-      <Value>Cadres en fer</Value>
+      <Value>Cadres en Fer</Value>
     </Record>
     <Record>
       <Key>ItemIronSheets</Key>
@@ -1947,7 +1952,7 @@
     </Record>
     <Record>
       <Key>StructureElectronicsPrinter</Key>
-      <Value>Imprimante Électronique</Value>
+      <Value>Imprimante d'Objets Électronique</Value>
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
@@ -1999,19 +2004,19 @@
     </Record>
     <Record>
       <Key>ItemKitEngineSmall</Key>
-      <Value>Kit (Petit Moteur)</Value>
+      <Value>Kit (Moteur Petit)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineMedium</Key>
-      <Value>Kit (Moyen Moteur)</Value>
+      <Value>Kit (Moteur Moyen)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineLarge</Key>
-      <Value>Kit (Large Moteur)</Value>
+      <Value>Kit (Moteur Large)</Value>
     </Record>
     <Record>
       <Key>ItemKitElectronicsPrinter</Key>
-      <Value>Kit (Imprimante Électronique)</Value>
+      <Value>Kit (Imprimante d'Objets Électronique)</Value>
     </Record>
     <Record>
       <Key>ItemKitDoor</Key>
@@ -2023,7 +2028,7 @@
     </Record>
     <Record>
       <Key>ItemKitBlastDoor</Key>
-      <Value>Kit (Porte Anti Souffle)</Value>
+      <Value>Kit (Porte Anti-Souffle)</Value>
     </Record>
     <Record>
       <Key>ItemKitArcFurnace</Key>
@@ -2031,7 +2036,7 @@
     </Record>
     <Record>
       <Key>StructureHydraulicPipeBender</Key>
-      <Value>Cintreuse de Conduit hydrauliques</Value>
+      <Value>Cintreuse de Conduit Hydrauliques</Value>
     </Record>
     <Record>
       <Key>ItemKitHydraulicPipeBender</Key>
@@ -2053,9 +2058,9 @@
       <Key>ItemGasSensor</Key>
       <Value>Capteur de gaz</Value>
     </Record>
-	  <Record>
+    <Record>
       <Key>ItemBeacon</Key>
-      <Value>Balise de Suivi</Value>
+      <Value>Balise</Value>
     </Record>
     <Record>
       <Key>StructureToolManufactory</Key>
@@ -2071,95 +2076,95 @@
     </Record>
     <Record>
       <Key>StructureLogicUnit</Key>
-      <Value>Unité logique</Value>
+      <Value>Unité Logique</Value>
     </Record>
     <Record>
       <Key>ItemKitLogic</Key>
-      <Value>Kit (Unité logique)</Value>
+      <Value>Kit (Unité Logique)</Value>
     </Record>
     <Record>
       <Key>StructureLogicReader</Key>
-      <Value>Lecteur logique</Value>
+      <Value>Unité Logique: Lecture</Value>
     </Record>
     <Record>
       <Key>StructureLogicMemory</Key>
-      <Value>Mémoire logique</Value>
+      <Value>Unité Logique: Mémoire</Value>
     </Record>
     <Record>
       <Key>StructureLogicMath</Key>
-      <Value>Mathématiques logiques</Value>
+      <Value>Unité Logique: Mathématique</Value>
     </Record>
     <Record>
       <Key>StructureLogicWriter</Key>
-      <Value>Écrivain logique</Value>
+      <Value>Unité Logique: Écriture</Value>
     </Record>
     <Record>
       <Key>StructureLogicSelect</Key>
-      <Value>Sélection logique</Value>
+      <Value>Unité Logique: Sélecteur</Value>
     </Record>
     <Record>
       <Key>StructureLogicCompare</Key>
-      <Value>Comparer la logique</Value>
+      <Value>Unité Logique: Comparateur</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicProcessor</Key>
-      <Value>Kit (processeur logique)</Value>
+      <Value>Kit (Unité Logique: Processeur)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicMemory</Key>
-      <Value>Kit (mémoire logique)</Value>
+      <Value>Kit (Unité Logique: Mémoire)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicInputOutput</Key>
-      <Value>Kit (logiques I/O)</Value>
+      <Value>Kit (Unité Logique: Entrée/Sortie)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicSwitch</Key>
-      <Value>Kit (commutateur logique)</Value>
+      <Value>Kit (Unité Logique: Interrupteur)</Value>
     </Record>
     <Record>
       <Key>StructureLogicSwitch</Key>
-      <Value>Commutateur logique</Value>
+      <Value>Unité Logique: Interrupteur</Value>
     </Record>
     <Record>
       <Key>StructureLogicMinMax</Key>
-      <Value>Logique Min / Max</Value>
+      <Value>Unité Logique: Min/Max</Value>
     </Record>
     <Record>
       <Key>StructureLogicDisplay5</Key>
-      <Value>Affichage LED (Petit)</Value>
+      <Value>Afficheur LED (Petit)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED5</Key>
-      <Value>Affichage LED (Moyen)</Value>
+      <Value>Afficheur LED (Moyen)</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED8Large</Key>
-      <Value>Affichage LED (Grand)</Value>
+      <Value>Afficheur LED (Grand)</Value>
     </Record>
     <Record>
       <Key>StructureSign1x1</Key>
-      <Value>Panneau de structure 1x1</Value>
-    </Record>
+      <Value>Panneau de Structure 1x1</Value>
+   </Record>
     <Record>
       <Key>StructureSign2x1</Key>
       <Value>Panneau de structure 2x1</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED5Large</Key>
-      <Value>Structure Console LED 5 Grand</Value>
+      <Value>Structure Console LED (Grand)</Value>
     </Record>
     <Record>
       <Key>StructureSolarPanelDual</Key>
-      <Value>Panneau solaire</Value>
+      <Value>Panneau Solaire</Value>
     </Record>
     <Record>
       <Key>StructureLogicBatchWriter</Key>
-      <Value>Batch Writer</Value>
+      <Value>Interpréteur de Commandes</Value>
     </Record>
     <Record>
       <Key>StructureLogicButton</Key>
-      <Value>Boutton</Value>
+      <Value>Bouton</Value>
     </Record>
     <Record>
       <Key>StructureLogicSwitch2</Key>
@@ -2167,7 +2172,107 @@
     </Record>
     <Record>
       <Key>StructureLogicMathUnary</Key>
-      <Value>Math Unary</Value>
+      <Value>Fonction Mathématique</Value>
+    </Record>
+    <Record>
+      <Key>StructureRecycler</Key>
+      <Value>Recycleur</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitRecycler</Key>
+      <Value>Kit (Recycleur)</Value>
+    </Record>
+    <Record>
+      <Key>ItemCableAnalyser</Key>
+      <Value>Kit (Analyseur de Cable)</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableAnalysizer</Key>
+      <Value>Analyseur de Cable</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicDial</Key>
+      <Value>Dial</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED1x2</Key>
+      <Value>Afficheur à LED 1x2</Value>
+    </Record>
+    <Record>
+      <Key>StructureConsoleLED1x3</Key>
+      <Value>Afficheur à LED 1x3</Value>
+	</Record>
+    <Record>
+      <Key>NpcChick</Key>
+      <Value>Poussin</Value>
+    </Record>
+    <Record>
+      <Key>NpcChicken</Key>
+      <Value>Poulet</Value>
+    </Record>
+    <Record>
+      <Key>DynamicSkeleton</Key>
+      <Value>Squelette</Value>
+    </Record>
+    <Record>
+      <Key>StructureBeacon</Key>
+      <Value>Balise</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitBeacon</Key>
+      <Value>Kit (Balise)</Value>
+    </Record>
+    <Record>
+      <Key>StructureTankBig</Key>
+      <Value>Grand Réservoir</Value>
+    </Record>
+    <Record>
+      <Key>ItemPotato</Key>
+      <Value>Pomme de Terre</Value>
+    </Record>
+    <Record>
+      <Key>StructureGasGenerator</Key>
+      <Value>Générateur de Gaz Combustible</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitGasGenerator</Key>
+      <Value>Kit (Générateur de Gaz Combustible)</Value>
+    </Record>
+    <Record>
+      <Key>DynamicGPR</Key>
+      <Value>Radar Souterrain</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeOreScanner</Key>
+      <Value>Cartouche (Scanneur de minérai)</Value>
+    </Record>
+    <Record>
+      <Key>ItemPotatoBaked</Key>
+      <Value>Pomme de Terre au Four</Value>
+    </Record>
+    <Record>
+      <Key>ItemSoyOil</Key>
+      <Value>Huile de Soja</Value>
+    </Record>
+    <Record>
+      <Key>ItemFries</Key>
+      <Value>Frites</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCornerH3</Key>
+      <Value>Heavy Cable Corner</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCornerH4</Key>
+      <Value>Heavy Cable Corner</Value>
+    </Record>
+    <Record>
+      <Key>StructureCableCorner4HBurnt</Key>
+      <Value>Burnt Heavy Cable Corner</Value>
+    </Record>
+    <Record>
+      <Key>PortableSolarPanel</Key>
+      <Value>Panneau Solaire mobile</Value>
     </Record>
   </Things>
   <Slots>
@@ -2197,7 +2302,7 @@
     </Record>
     <Record>
       <Key>Back</Key>
-      <Value>Arriére</Value>
+      <Value>Arrière</Value>
     </Record>
     <Record>
       <Key>Brain</Key>
@@ -2273,7 +2378,7 @@
     </Record>
     <Record>
       <Key>DataDisk</Key>
-      <Value>Disque de données</Value>
+      <Value>Disque de Données</Value>
     </Record>
     <Record>
       <Key>Appliance1</Key>
@@ -2285,7 +2390,7 @@
     </Record>
     <Record>
       <Key>Import</Key>
-      <Value>Deposer (Minerai)</Value>
+      <Value>Déposer (Minerai)</Value>
     </Record>
     <Record>
       <Key>Export</Key>
@@ -2459,15 +2564,15 @@
     </Record>
     <Record>
       <Key>PressureUp</Key>
-      <Value>Pression en Hausse</Value>
+      <Value>Augmenter la Pression</Value>
     </Record>
     <Record>
       <Key>PressureDown</Key>
-      <Value>Pression en Baisse</Value>
+      <Value>Réduire la Pression</Value>
     </Record>
     <Record>
-      <Key />
-      <Value />
+      <Key/>
+      <Value/>
     </Record>
     <Record>
       <Key>Flush</Key>
@@ -2483,7 +2588,7 @@
     </Record>
     <Record>
       <Key>CaptainsChair</Key>
-      <Value>Siège du Capitaines</Value>
+      <Value>Siège du Capitaine</Value>
     </Record>
     <Record>
       <Key>PassengersChair</Key>
@@ -2653,11 +2758,15 @@
       <Key>Decrease</Key>
       <Value>Diminuer</Value>
     </Record>
+    <Record>
+      <Key>Color</Key>
+      <Value>Couleur</Value>
+    </Record>
   </Interactables>
   <Interface>
     <Record>
       <Key>MainMenuContinue</Key>
-      <Value>Continuez</Value>
+      <Value>Continuer</Value>
     </Record>
     <Record>
       <Key>MainMenuNewWorld</Key>
@@ -2669,7 +2778,7 @@
     </Record>
     <Record>
       <Key>MainMenuJoinWorld</Key>
-      <Value>Rejoignez le Monde</Value>
+      <Value>Rejoindre un Monde</Value>
     </Record>
     <Record>
       <Key>MainMenuWorkshop</Key>
@@ -2697,7 +2806,7 @@
     </Record>
     <Record>
       <Key>LoadMenuFileListTitle</Key>
-      <Value>Mondes sauvegardes</Value>
+      <Value>Mondes Sauvegardés</Value>
     </Record>
     <Record>
       <Key>WorldInfoTextDate</Key>
@@ -2729,7 +2838,7 @@
     </Record>
     <Record>
       <Key>WorldInfoButtonDebugLoad</Key>
-      <Value>Debug Load</Value>
+      <Value>Charger en Debug</Value>
     </Record>
     <Record>
       <Key>LoadWorldButtonLoad</Key>
@@ -2757,7 +2866,7 @@
     </Record>
     <Record>
       <Key>JoinMenuServerListRefreshing</Key>
-      <Value>Rafraîchir la Liste des Serveurs</Value>
+      <Value>Rafraîchir la Liste</Value>
     </Record>
     <Record>
       <Key>JoinMenuInputAddressTitle</Key>
@@ -2873,7 +2982,7 @@
     </Record>
     <Record>
       <Key>WorkshopUploadProgress</Key>
-      <Value>Traitement des données de configuration</Value>
+      <Value>Traitement des Données de Configuration</Value>
     </Record>
     <Record>
       <Key>ButtonConfirmWarning</Key>
@@ -2909,11 +3018,11 @@
     </Record>
     <Record>
       <Key>SettingsGameplayAutosave</Key>
-      <Value>Activer la sauvegarde automatiqu</Value>
+      <Value>Activer la Sauvegarde Automatique</Value>
     </Record>
     <Record>
       <Key>SettingsAutosaveInterval</Key>
-      <Value>Intervalle de temps (Seconds)</Value>
+      <Value>Intervalle de Temps (En Seconds)</Value>
     </Record>
     <Record>
       <Key>SettingsHUDScale</Key>
@@ -2937,7 +3046,7 @@
     </Record>
     <Record>
       <Key>SettingsTitleAutosave</Key>
-      <Value>Paramètres d'Enregistrement Automatique</Value>
+      <Value>Paramètres de Sauvegarde Automatique</Value>
     </Record>
     <Record>
       <Key>SettingsTitleScreen</Key>
@@ -2957,7 +3066,7 @@
     </Record>
     <Record>
       <Key>SettingsScreenMode</Key>
-      <Value>Mode Ecran</Value>
+      <Value>Mode Écran</Value>
     </Record>
     <Record>
       <Key>SettingsVsync</Key>
@@ -2989,7 +3098,7 @@
     </Record>
     <Record>
       <Key>SettingsSoftParticles</Key>
-      <Value>Particles</Value>
+      <Value>Particules</Value>
     </Record>
     <Record>
       <Key>SettingsVolumetricLighting</Key>
@@ -3177,7 +3286,7 @@
     </Record>
     <Record>
       <Key>TutorialGetStarted</Key>
-      <Value>Commencez avec le tutoriel</Value>
+      <Value>Commencer avec le tutoriel</Value>
     </Record>
     <Record>
       <Key>TutorialSkipButton</Key>
@@ -3197,8 +3306,8 @@
     </Record>
     <Record>
       <Key>TutorialCompleteMessage</Key>
-      <Value>Il y a encore beaucoup àa apprendre.
-	  Alors sors de là, Stationeer !</Value>
+      <Value>Il y a encore beaucoup à apprendre.
+Alors sors de là, Stationeer !</Value>
     </Record>
     <Record>
       <Key>TutorialBackToMenu</Key>
@@ -3214,10 +3323,10 @@
     </Record>
 	    <Record>
       <Key>MothershipConstruction</Key>
-      <Value>&lt;color=yellow&gt;Construire sur le vaisseau mère&lt;/color&gt;.</Value>
+      <Value>&lt;color=yellow&gt;Construire sur le vaisseau mère.&lt;/color&gt;</Value>
     </Record>
     <Record>
-      <Key>MulticonstructorItem</Key>
+      <Key>MulticonstructorItem</Key>																		
       <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt; Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
     </Record>
     <Record>
@@ -3262,7 +3371,7 @@
     </Record>
     <Record>
       <Key>TooltipPlacementSnapFaceMount</Key>
-      <Value>Le placement n'est autorisé que sur les &lt;color=yellow&gt;{THING:ItemIronFrames}&lt;/color&gt; et &lt;color=yellow&gt;{THING:StructureFrame}&lt;/color&gt; directement. Si ceux-ci sont améliorés, ils offriront de meilleures options de placement.</Value>
+      <Value>Le placement n'est autorisé que sur les &lt;color=yellow&gt;{THING:StructureFrameIron}&lt;/color&gt; et &lt;color=yellow&gt;{THING:StructureFrame}&lt;/color&gt; directement. Si ceux-ci sont améliorés, ils offriront de meilleures options de placement.</Value>
     </Record>
     <Record>
       <Key>GameMenuClearDisconnectedPlayers</Key>
@@ -3282,7 +3391,7 @@
     </Record>
     <Record>
       <Key>SettingsTooltipOpacity</Key>
-      <Value>Opacité de l'info-bulle</Value>
+      <Value>Opacité de l'Info-Bulle</Value>
     </Record>
     <Record>
       <Key>MenuDownloadDriverButton</Key>
@@ -3292,9 +3401,391 @@
       <Key>MenuDownloadDriverWarning</Key>
       <Value>De nombreux utilisateurs de cartes graphiques AMD ont signalé des problèmes avec le jeu qui ont été résolus en mettant à jour leurs pilotes. Nous vous recommandons &lt;b&gt;FORTEMENT&lt;/b&gt; de le mettre à jour avant de jouer.</Value>
     </Record>
-     <Record>
+    <Record>
       <Key>SettingsChatFadeTimer</Key>
-      <Value>Chat délai de fondu</Value>
+      <Value>Délais du Fondu du Tchat</Value>
+    </Record>
+  <Record>
+      <Key>PromptResetSettingsTitle</Key>
+      <Value>Réinitialiser les Paramètres</Value>
+    </Record>
+  <Record>
+      <Key>PromptResetSettingsBody</Key>
+      <Value>Etes vous sur ?</Value>
+    </Record>
+  <Record>
+      <Key>PromptResetSettingsConfirm</Key>
+      <Value>Réinitialiser</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitTitle</Key>
+      <Value>Quitter Stationeers</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitBody</Key>
+      <Value>Êtes vous sur de vouloir quitter ?</Value>
+    </Record>
+    <Record>
+      <Key>PromptQuitConfirm</Key>
+      <Value>Quitter</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteTitle</Key>
+      <Value>Écraser</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteBody</Key>
+      <Value>Êtes-vous sûr de vouloir écraser le monde sauvé existant ?</Value>
+    </Record>
+    <Record>
+      <Key>PromptOverwriteConfirm</Key>
+      <Value>Écraser</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishTitle</Key>
+      <Value>Publier sur le Workshop</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishBody</Key>
+      <Value>Êtes vous sûr de vouloir publier ce monde sur le Workshop?</Value>
+    </Record>
+    <Record>
+      <Key>PromptPublishConfirm</Key>
+      <Value>Publier</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteTitle</Key>
+      <Value>Supprimer la Sauvegarde</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteBody</Key>
+      <Value>Êtes vous sûr ?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDeleteConfirm</Key>
+      <Value>Supprimer</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadTitle</Key>
+      <Value>Debug Load</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadBody</Key>
+      <Value>Êtes-vous sûr de vouloir charger ce monde avec un seul caractère ?</Value>
+    </Record>
+    <Record>
+      <Key>PromptDebugLoadConfirm</Key>
+      <Value>Debug Load</Value>
+    </Record>
+    <Record>
+      <Key>PromptRespawnTitle</Key>
+      <Value>Respawn</Value>
+    </Record>
+    <Record>
+      <Key>PromptRespawnBody</Key>
+      <Value>Vous êtes mort.</Value>
+    </Record>
+    <Record>
+      <Key>PromptRespawnConfirm</Key>
+      <Value>Respawn</Value>
+    </Record>
+    <Record>
+      <Key>AlertInvalidIP</Key>
+      <Value>Adresse IP non valide {0} \ nVérifier que l'adresse IP ou l'URL soit valide</Value>
+    </Record>
+    <Record>
+      <Key>AlertPlayerCountExceeded</Key>
+      <Value>Le serveur est plein.</Value>
+    </Record>
+    <Record>
+      <Key>AlertVersionMismatch</Key>
+      <Value>Incompatibilité de version du jeu avec le serveur.</Value>
+    </Record>
+    <Record>
+      <Key>AlertNoResponse</Key>
+      <Value>Le serveur de jeu ne répond pas. 
+Veuillez réessayer.</Value>													   
+						 
+    </Record>
+    <Record>
+      <Key>AlertKicked</Key>
+      <Value>Vous avez été expulsé du serveur.</Value>
+    </Record>
+    <Record>
+      <Key>AlertWrongPassword</Key>
+      <Value>Mot de passe du serveur incorrect.</Value>
+    </Record>
+    <Record>
+      <Key>AlertInvalidPort</Key>
+      <Value>Les valeurs de port doivent être comprises entre 0 et 65535.</Value>
+    </Record>
+    <Record>
+      <Key>AlertCannotUpdatePort</Key>
+      <Value>Impossible de modifier le port de mise à jour pendant l'exécution du serveur.</Value>
+    </Record>
+    <Record>
+      <Key>AlertBlankSaveName</Key>
+      <Value>Vous devez entrer un nom de monde pour enregistrer.</Value>
+    </Record>
+    <Record>
+      <Key>AlertTitleAttention</Key>
+      <Value>Attention</Value>
+    </Record>
+    <Record>
+      <Key>AlertTitlePleaseWait</Key>
+      <Value>Merci de patienter...</Value>
+    </Record>    
+    <Record>
+      <Key>TooltipNeedMoreKit</Key>
+      <Value>&lt;color=red&gt;Besoin Plus de : {0}&lt;/color&gt;.</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuSearchPlaceholder</Key>
+      <Value>Rechercher par nom de serveur</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuAddressPlaceholder</Key>
+      <Value>Entrez IP: Port ici...</Value>	   
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailConnectButton</Key>
+      <Value>Rejoignez le monde</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailInfoButton</Key>
+      <Value>Voir les infos</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailUnFavoriteButton</Key>
+      <Value>Supprimer le Favori</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerDetailFavoriteButton</Key>
+      <Value>Favori</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuSaveWorldButton</Key>
+      <Value>Sauvegarder le Monde</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuOverwriteButton</Key>
+      <Value>Écraser</Value>
+    </Record>
+    <Record>
+      <Key>SaveMenuNamePlaceholder</Key>
+      <Value>Entrer le nom d'enregistrement...</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeCreative</Key>
+      <Value>Créatif</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldModeSurvival</Key>
+      <Value>Survie</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuServerListMap</Key>
+      <Value>Carte</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoIPAddress</Key>
+      <Value>IP Addresse:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoMap</Key>
+      <Value>Carte:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoVersion</Key>
+      <Value>Version:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoLatency</Key>
+      <Value>Latence:</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuInfoPlayers</Key>
+      <Value>Joueurs:</Value>
+    </Record>
+    <Record>
+      <Key>ChangeAppearanceTitle</Key>
+      <Value>Changer d'Apparence</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleGender</Key>
+      <Value>Genre</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleFace</Key>
+      <Value>Visage</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleHairStyle</Key>
+      <Value>Cheveux</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleHairColor</Key>
+      <Value>Couleur des Cheveux</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleEyeColor</Key>
+      <Value>Couleur de Yeux</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleSkinColor</Key>
+      <Value>Couleur de Peau</Value>
+    </Record>
+    <Record>
+      <Key>AppearanceTitleFacialHairStyle</Key>
+      <Value>Pilosité</Value>
+    </Record>
+    <Record>
+      <Key>SettingsStartingCondition</Key>
+      <Value>Condition de Départ</Value>
+    </Record>
+    <Record>
+      <Key>SettingsTitleGameSettings</Key>
+      <Value>Paramètres de Jeu</Value>
+    </Record>
+    <Record>
+      <Key>SettingsHungerRate</Key>
+      <Value>Taux de Faim</Value>
+    </Record>
+    <Record>
+      <Key>JoinWorldSortBy</Key>
+      <Value>Tier par</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuFiltersTitle</Key>
+      <Value>Filtres</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuButtonStopRefresh</Key>
+      <Value>Arrêter l'Actualisation</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuIncompatibleVersions</Key>
+      <Value>Cacher les Versions Incompatible</Value>
+    </Record>
+    <Record>
+      <Key>JoinMenuPasswordProtected</Key>
+      <Value>Cacher les Serveurs Protégés</Value>
+    </Record>
+    <Record>
+      <Key>JoinWorldEmptyServers</Key>
+      <Value>Cacher les Serveurs Vide</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopSubscribedModsTitle</Key>
+      <Value>Mods souscrits</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopPageButton</Key>
+      <Value>Workshop Page</Value>
+    </Record>
+    <Record>
+      <Key>WorkshopUnsubscribeButton</Key>
+      <Value>Se Désabonner</Value>
+    </Record>
+    <Record>
+      <Key>OpenWorkshopButton</Key>
+      <Value>Ouvrir le Workshop</Value>
+    </Record>
+    <Record>
+      <Key>WorldPresetTitle</Key>
+      <Value>Monde prédéfini</Value>
+    </Record>
+    <Record>
+      <Key>WorldPresetLabel</Key>
+      <Value>Prédéfini</Value>
+    </Record>
+    <Record>
+      <Key>WorldNameLabel</Key>
+      <Value>Nom du Monde</Value>
+    </Record>
+    <Record>
+      <Key>WorldDescriptionLabel</Key>
+      <Value>Description</Value>
+    </Record>
+    <Record>
+      <Key>WorldAtmosphere</Key>
+      <Value>Atmosphère</Value>
+    </Record>
+    <Record>
+      <Key>GameSettingsTitle</Key>
+      <Value>Paramètres de jeu</Value>
+    </Record>
+    <Record>
+      <Key>WorldCreativeMode</Key>
+      <Value>Mode Créatif</Value>
+    </Record>
+    <Record>
+      <Key>WorldTerrain</Key>
+      <Value>Terrain</Value>
+    </Record>
+    <Record>
+      <Key>WorldSeedLabel</Key>
+      <Value>Seed du Monde</Value>
+    </Record>
+    <Record>
+      <Key>WorldCratersLabel</Key>
+      <Value>Cratères</Value>
+    </Record>
+    <Record>
+      <Key>WorldTerrainPresetLabel</Key>
+      <Value>Terrain</Value>
+    </Record>
+    <Record>
+      <Key>WorldAtmospherePresetLabel</Key>
+      <Value>Atmosphère</Value>
+    </Record>
+    <Record>
+      <Key>WorldSettingsTitle</Key>
+      <Value>Paramètres du Monde</Value>
+    </Record>
+    <Record>
+      <Key>WorldResetButton</Key>
+      <Value>Réinitialiser</Value>
+    </Record>
+    <Record>
+      <Key>WorldSaveButton</Key>
+      <Value>Sauvegarder</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldAreaCustom</Key>
+      <Value>Personnalisé</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldMoonDesc</Key>
+      <Value>Alors vous êtes coincé sur la lune, mais tout n'est pas perdu...
+Bien sûr, il y fait froid, rude et monotone, mais au moins le soleil brille. Le panneau solaire va vous être utile, ainsi que le contrôleur de puissance ... et aussi le four à arc.	  
+Il y a même un peu de nourriture et d'oxygène dans les autres caisses, même si ça ne va pas durer éternellement... ni votre batterie...
+Vous feriez mieux de commencer à réfléchir comment vous aller survivre. À quel point cela pourrait être difficile de gréer un SAS ? Un générateur ? Peut-être même faire fondre du minerai et construire votre base ?
+On dirait que vous allez être ici un moment.</Value>
+    </Record>
+    <Record>
+      <Key>NewWorldSpaceDesc</Key>
+      <Value>C'est le mode créatif de Stationeers!
+Spawn avec n'importe quel article, tester des idées et construire trucs de cinglé rapidement.
+&lt;color=red&gt;Ce mode est expérimental.&lt;/color&gt; Pensez-y comme une fête spatiale libre où des choses* passionnantes et inattendues peuvent et vont se produire. C'est une experience plus sûr que le mode Survie.
+Ne soyez pas triste quand vous vous faites exploser en minuscules petits morceaux ou que vous vous faites massacrer par des poulets ou que vous explosez lentement tout en dérivant seul dans le vide infini.
+*bugs</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterName</Key>
+      <Value>Entrer un Nom...</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterDescription</Key>
+      <Value>Entrer une Description...</Value>
+    </Record>
+    <Record>
+      <Key>TextboxEnterSeed</Key>
+      <Value>Entrer une Seed...</Value>
+    </Record>
+    <Record>
+      <Key>SettingsDisableParticlesOnMenu</Key>
+      <Value>Désactiver les Particules dans le Menu</Value>
     </Record>
   </Interface>
   <Colors>
@@ -3347,6 +3838,56 @@
       <Value>Violet</Value>
     </Record>
   </Colors>
-  <Keys />
-  <GameTip />
+  <Keys/>
+  <Mineables>
+    <Record>
+      <Key>Iron</Key>
+      <Value>Fer</Value>
+    </Record>
+    <Record>
+      <Key>Ice</Key>
+      <Value>Glace</Value>
+    </Record>
+    <Record>
+      <Key>Oxite</Key>
+      <Value>Oxite</Value>
+    </Record>
+    <Record>
+      <Key>Volatiles</Key>
+      <Value>Volatiles</Value>
+    </Record>
+    <Record>
+      <Key>Gold</Key>
+      <Value>Or</Value>
+    </Record>
+    <Record>
+      <Key>Coal</Key>
+      <Value>Charbon</Value>
+    </Record>
+    <Record>
+      <Key>Copper</Key>
+      <Value>Cuivre</Value>
+    </Record>
+    <Record>
+      <Key>Uranium</Key>
+      <Value>Uranium</Value>
+    </Record>
+    <Record>
+      <Key>Silver</Key>
+      <Value>Argent</Value>
+    </Record>
+    <Record>
+      <Key>Nickel</Key>
+      <Value>Nickel</Value>
+    </Record>
+    <Record>
+      <Key>Lead</Key>
+      <Value>Plomb</Value>
+    </Record>
+    <Record>
+      <Key>Silicon</Key>
+      <Value>Silicium</Value>
+    </Record>
+  </Mineables>			 
+ <GameTip/>
 </Language>
