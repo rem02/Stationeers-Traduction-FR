@@ -1,5 +1,5 @@
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Created by CedricS and [FR]Rem For Stationeers -->
+<!-- Created by CedricS and  [FR]Rem For Stationeers -->
 	<Code>FR</Code>
 	<Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->
 	<GameTip>
@@ -19,5 +19,8 @@
 		<String>Placez une pile de &lt;color=yellow&gt;{THING:ItemIronOre}&lt;/color&gt; dans un &lt;color=yellow&gt;{THING:StructureArcFurnace}&lt;/color&gt; afin de la transformer en &lt;color=yellow&gt;{THING:ItemIronIngot}&lt;/color&gt;.</String>	
 		<String>Placez un &lt;color=yellow&gt;{THING:MotherboardLogic}&lt;/color&gt; dans un &lt;color=yellow&gt;{THING:StructureComputer}&lt;/color&gt; pour activer le contrôle logique. Vous serez en mesure d'ajouter des conditions et des actions qui contrôlent les états des périphériques sur le même reseau de données.</String>	
 		<String>Lorsque vous modifiez la quantite de quelque chose via un bouton dans le monde, maintenez le bouton &lt;color=yellow&gt;{KEY:QuantityModifier}&lt;/color&gt;} enfoncée tout en cliquant pour utiliser des increments plus petits.</String>	
+		<String>Utilisez un {THING:ItemKitLogicInputOutput} pour créer un {THING:StructureLogicReader} ou {THING:StructureLogicWriter}. Les lecteurs vont vous permettent de lire les valeurs d'autres appareils, les rédacteurs vont vous permettent de modifier les valeurs sur les appareils. Lorsqu'il est combiné avec des unités mathématiques, vous pouvez créer des systèmes automatisés extrêmement complexes.</String>
+		<String>Utilisez un {THING:StructureRecycler} pour convertir les objets que vous ne voulez plus en réactifs utilisables. Passez le {THING:ItemReagentMix} en sortie dans un {THING:StructureCentrifuge} pour le convertir en minerai, prêt pour un {THING:StructureFurnace}.</String>
+		<String>Utilisez un {THING:StructureHydraulicPipeBender} pour fabriquer des objets en relation avec l'atmosphére, tels que {THING:ItemKitAtmospherics} qui vous permet de créer des machines utiles telles que {THING:StructureAirConditioner} ou {THING:StructureFiltration}.</String>																																																																													  																																																																																																																										
 	</GameTip>
 </Language>
