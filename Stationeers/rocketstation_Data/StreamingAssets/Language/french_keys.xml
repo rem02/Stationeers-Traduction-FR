@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Created by CedricS and [FR]Rem -->
+<!-- Created by CedricS and [FR] Rem For Stationeers -->
   <Code>FR</Code>
   <Font>font_extended</Font> <!-- Permet l'ajout des accents ^^ -->  
   <Keys>
@@ -294,71 +294,71 @@
     </Record>
     <Record>
       <Key>Keypad0</Key>
-      <Value>Keypad0</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;0</Value>
     </Record>
     <Record>
       <Key>Keypad1</Key>
-      <Value>Keypad1</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;1</Value>
     </Record>
     <Record>
       <Key>Keypad2</Key>
-      <Value>Keypad2</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;2</Value>
     </Record>
     <Record>
       <Key>Keypad3</Key>
-      <Value>Keypad3</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;3</Value>
     </Record>
     <Record>
       <Key>Keypad4</Key>
-      <Value>Keypad4</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;4</Value>
     </Record>
     <Record>
       <Key>Keypad5</Key>
-      <Value>Keypad5</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;5</Value>
     </Record>
     <Record>
       <Key>Keypad6</Key>
-      <Value>Keypad6</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;6</Value>
     </Record>
     <Record>
       <Key>Keypad7</Key>
-      <Value>Keypad7</Value>
+      <Value>&lt;size=40%&gt;>Keypad&lt;/size&gt;&#10;7</Value>
     </Record>
     <Record>
       <Key>Keypad8</Key>
-      <Value>Keypad8</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;8</Value>
     </Record>
     <Record>
       <Key>Keypad9</Key>
-      <Value>Keypad9</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10;9</Value>
     </Record>
     <Record>
       <Key>KeypadPeriod</Key>
-      <Value>Keypad Period</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10; .</Value>
     </Record>
     <Record>
       <Key>KeypadDivide</Key>
-      <Value>Keypad Divide</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10; /</Value>
     </Record>
     <Record>
       <Key>KeypadMultiply</Key>
-      <Value>Keypad Multiply</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10; *</Value>
     </Record>
     <Record>
       <Key>KeypadMinus</Key>
-      <Value>Keypad Minus</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10; -</Value>
     </Record>
     <Record>
       <Key>KeypadPlus</Key>
-      <Value>Keypad Plus</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10; +</Value>
     </Record>
     <Record>
       <Key>KeypadEnter</Key>
-      <Value>Keypad Enter</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10; Entrer</Value>
     </Record>
     <Record>
       <Key>KeypadEquals</Key>
-      <Value>Keypad Equals</Value>
+      <Value>&lt;size=40%&gt;Keypad&lt;/size&gt;&#10; =</Value>
     </Record>
     <Record>
       <Key>UpArrow</Key>
@@ -470,27 +470,27 @@
     </Record>
     <Record>
       <Key>RightShift</Key>
-      <Value>Right Shift</Value>
+      <Value>Shift Droit</Value>
     </Record>
     <Record>
       <Key>LeftShift</Key>
-      <Value>Left Shift</Value>
+      <Value>Shift Gauche</Value>
     </Record>
     <Record>
       <Key>RightControl</Key>
-      <Value>Right Control</Value>
+      <Value>Controle Droit</Value>
     </Record>
     <Record>
       <Key>LeftControl</Key>
-      <Value>Left Control</Value>
+      <Value>Contro Gauche</Value>
     </Record>
     <Record>
       <Key>RightAlt</Key>
-      <Value>Right Alt</Value>
+      <Value>Alt Droit</Value>
     </Record>
     <Record>
       <Key>LeftAlt</Key>
-      <Value>Left Alt</Value>
+      <Value>Alt Gauche</Value>
     </Record>
     <Record>
       <Key>RightApple</Key>
@@ -542,191 +542,191 @@
     </Record>
     <Record>
       <Key>Mouse0</Key>
-      <Value>Mouse0</Value>
+      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;&#10;0</Value>
     </Record>
     <Record>
       <Key>Mouse1</Key>
-      <Value>Mouse1</Value>
+      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;&#10;1</Value>
     </Record>
     <Record>
       <Key>Mouse2</Key>
-      <Value>Mouse2</Value>
+      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;&#10;2</Value>
     </Record>
     <Record>
       <Key>Mouse3</Key>
-      <Value>Mouse3</Value>
+      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;&#10;3</Value>
     </Record>
     <Record>
       <Key>Mouse4</Key>
-      <Value>Mouse4</Value>
+      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;&#10;4</Value>
     </Record>
     <Record>
       <Key>Mouse5</Key>
-      <Value>Mouse5</Value>
+      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;&#10;5</Value>
     </Record>
     <Record>
       <Key>Mouse6</Key>
-      <Value>Mouse6</Value>
+      <Value>&lt;size=40%&gt;Mouse&lt;/size&gt;&#10;6</Value>
     </Record>
     <Record>
       <Key>JoystickButton0</Key>
-      <Value>Joystick Button0</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;0</Value>
     </Record>
     <Record>
       <Key>JoystickButton1</Key>
-      <Value>Joystick Button1</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;1</Value>
     </Record>
     <Record>
       <Key>JoystickButton2</Key>
-      <Value>Joystick Button2</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;2</Value>
     </Record>
     <Record>
       <Key>JoystickButton3</Key>
-      <Value>Joystick Button3</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;3</Value>
     </Record>
     <Record>
       <Key>JoystickButton4</Key>
-      <Value>Joystick Button4</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;4</Value>
     </Record>
     <Record>
       <Key>JoystickButton5</Key>
-      <Value>Joystick Button5</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;5</Value>
     </Record>
     <Record>
       <Key>JoystickButton6</Key>
-      <Value>Joystick Button6</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;6</Value>
     </Record>
     <Record>
       <Key>JoystickButton7</Key>
-      <Value>Joystick Button7</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;7</Value>
     </Record>
     <Record>
       <Key>JoystickButton8</Key>
-      <Value>Joystick Button8</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;8</Value>
     </Record>
     <Record>
       <Key>JoystickButton9</Key>
-      <Value>Joystick Button9</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;9</Value>
     </Record>
     <Record>
       <Key>JoystickButton10</Key>
-      <Value>Joystick Button10</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;10</Value>
     </Record>
     <Record>
       <Key>JoystickButton11</Key>
-      <Value>Joystick Button11</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;11</Value>
     </Record>
     <Record>
       <Key>JoystickButton12</Key>
-      <Value>Joystick Button12</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;12</Value>
     </Record>
     <Record>
       <Key>JoystickButton13</Key>
-      <Value>Joystick Button13</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;13</Value>
     </Record>
     <Record>
       <Key>JoystickButton14</Key>
-      <Value>Joystick Button14</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;14</Value>
     </Record>
     <Record>
       <Key>JoystickButton15</Key>
-      <Value>Joystick Button15</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;15</Value>
     </Record>
     <Record>
       <Key>JoystickButton16</Key>
-      <Value>Joystick Button16</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;16</Value>
     </Record>
     <Record>
       <Key>JoystickButton17</Key>
-      <Value>Joystick Button17</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;17</Value>
     </Record>
     <Record>
       <Key>JoystickButton18</Key>
-      <Value>Joystick Button18</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;18</Value>
     </Record>
     <Record>
       <Key>JoystickButton19</Key>
-      <Value>Joystick Button19</Value>
+      <Value>&lt;size=40%&gt;Joystick&lt;/size&gt;&#10;19</Value>
     </Record>
     <Record>
       <Key>Joystick1Button0</Key>
-      <Value>Joystick1 Button0</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;0</Value>
     </Record>
     <Record>
       <Key>Joystick1Button1</Key>
-      <Value>Joystick1 Button1</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;1</Value>
     </Record>
     <Record>
       <Key>Joystick1Button2</Key>
-      <Value>Joystick1 Button2</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;2</Value>
     </Record>
     <Record>
       <Key>Joystick1Button3</Key>
-      <Value>Joystick1 Button3</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;3</Value>
     </Record>
     <Record>
       <Key>Joystick1Button4</Key>
-      <Value>Joystick1 Button4</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;4</Value>
     </Record>
     <Record>
       <Key>Joystick1Button5</Key>
-      <Value>Joystick1 Button5</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;5</Value>
     </Record>
     <Record>
       <Key>Joystick1Button6</Key>
-      <Value>Joystick1 Button6</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;6</Value>
     </Record>
     <Record>
       <Key>Joystick1Button7</Key>
-      <Value>Joystick1 Button7</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;7</Value>
     </Record>
     <Record>
       <Key>Joystick1Button8</Key>
-      <Value>Joystick1 Button8</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;8</Value>
     </Record>
     <Record>
       <Key>Joystick1Button9</Key>
-      <Value>Joystick1 Button9</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;9</Value>
     </Record>
     <Record>
       <Key>Joystick1Button10</Key>
-      <Value>Joystick1 Button10</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;10</Value>
     </Record>
     <Record>
       <Key>Joystick1Button11</Key>
-      <Value>Joystick1 Button11</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;11</Value>
     </Record>
     <Record>
       <Key>Joystick1Button12</Key>
-      <Value>Joystick1 Button12</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;12</Value>
     </Record>
     <Record>
       <Key>Joystick1Button13</Key>
-      <Value>Joystick1 Button13</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;13</Value>
     </Record>
     <Record>
       <Key>Joystick1Button14</Key>
-      <Value>Joystick1 Button14</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;14</Value>
     </Record>
     <Record>
       <Key>Joystick1Button15</Key>
-      <Value>Joystick1 Button15</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;15</Value>
     </Record>
     <Record>
       <Key>Joystick1Button16</Key>
-      <Value>Joystick1 Button16</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;16</Value>
     </Record>
     <Record>
       <Key>Joystick1Button17</Key>
-      <Value>Joystick1 Button17</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;17</Value>
     </Record>
     <Record>
       <Key>Joystick1Button18</Key>
-      <Value>Joystick1 Button18</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;18</Value>
     </Record>
     <Record>
       <Key>Joystick1Button19</Key>
-      <Value>Joystick1 Button19</Value>
+      <Value>&lt;size=40%&gt;Joystick1&lt;/size&gt;&#10;19</Value>
     </Record>
     <Record>
       <Key>Joystick2Button0</Key>
