@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Version FR180716 (YYMMDD) - For version 0.01.1501.7112 - Updated by Mustard, CrocoFR and [FR]Rem - Based from version of CedricS and [FR]Rem -->													
+<!-- Version FR180905 (YYMMDD) - For version 0.01.1624.7613 - Updated by [FR]Rem based on update by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->													
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
@@ -120,6 +120,51 @@
       <Value>Pomme de terre</Value>
       <Unit/>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Tomato</Key>
+      <Value>Tomate</Value>
+      <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Fenoxitone</Key>
+      <Value>Fenoxitone</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorRed</Key>
+      <Value>Coloration Rouge</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorGreen</Key>
+      <Value>Coloration Verte</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorBlue</Key>
+      <Value>Coloration Bleue</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorYellow</Key>
+      <Value>Coloration Jaune</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorOrange</Key>
+      <Value>Coloration Orange</Value> <!-- Nouveau -->
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Pimpkin</Key>
+      <Value>Citrouille</Value>
+      <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Rice</Key>
+      <Value>Riz</Value>	
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -136,7 +181,7 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>Dihydrogène</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -226,11 +271,11 @@
     </Record>
     <Record>
       <Key>Off</Key>
-      <Value>Eteindre</Value>
+      <Value>Off</Value>
     </Record>
     <Record>
       <Key>On</Key>
-      <Value>Allumer</Value>
+      <Value>On</Value>
     </Record>
     <Record>
       <Key>Powered</Key>
@@ -652,7 +697,7 @@
     </Record>
     <Record>
       <Key>DynamicGasCanisterVolatiles</Key>
-      <Value>Réservoir Portable (Volatiles)</Value>
+      <Value>Réservoir Portable (Dihydrogène)</Value>
     </Record>
     <Record>
       <Key>DynamicGasCanisterWater</Key>
@@ -708,7 +753,7 @@
     </Record>
     <Record>
       <Key>ItemActiveVent</Key>
-      <Value>Active Ventilation</Value>
+      <Value>Ventilation Active</Value>
     </Record>
     <Record>
       <Key>ItemAreaPowerControl</Key>
@@ -852,7 +897,7 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>Bouteille de Gaz (Volatiles)</Value>
+      <Value>Bouteille de Gaz (Dihydrogène)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
@@ -884,7 +929,7 @@
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>Filtre (Volatiles)</Value>
+      <Value>Filtre (Dihydrogène)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
@@ -1140,7 +1185,7 @@
     </Record>
     <Record>
       <Key>ItemPipeValve</Key>
-      <Value>Conduit (Avec Vanne)/Value>
+      <Value>Conduit (Avec Vanne)</Value>
     </Record>
     <Record>
       <Key>ItemPipeVolumePump</Key>
@@ -1732,7 +1777,7 @@
     </Record>
     <Record>
       <Key>StructureWallHeater</Key>
-      <Value>Chauffage Murale</Value>
+      <Value>Chauffage Mural</Value>
     </Record>
     <Record>
       <Key>StructureWallLight</Key>
@@ -1744,7 +1789,7 @@
     </Record>
     <Record>
       <Key>UniformOrangeJumpSuit</Key>
-      <Value>Combinaison de Saut (orange)</Value>
+      <Value>Combinaison de Saut (Orange)</Value>
     </Record>
     <Record>
       <Key>WeaponEnergy</Key>
@@ -1796,7 +1841,7 @@
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>Câble Blindé (droit)</Value>
+      <Value>Câble Blindé (Droit)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
@@ -1988,7 +2033,7 @@
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
-      <Value>Glace (Volatiles)</Value>
+      <Value>Glace (Dihydrogène)</Value>
     </Record>
     <Record>
       <Key>ItemOxite</Key>
@@ -2224,7 +2269,7 @@
     </Record>
     <Record>
       <Key>StructureLogicDial</Key>
-      <Value>Dial</Value>
+      <Value>Sélecteur</Value>
     </Record>
     <Record>
       <Key>StructureConsoleLED1x2</Key>
@@ -2263,8 +2308,12 @@
       <Value>Pomme de Terre</Value>
     </Record>
     <Record>
+      <Key>ItemTomato</Key>
+      <Value>Tomate</Value> 
+    </Record>
+    <Record>
       <Key>StructureGasGenerator</Key>
-      <Value>Générateur (de Gaz Combustible)</Value>
+      <Value>Générateur (à Gaz Combustible)</Value>
     </Record>
     <Record>
       <Key>ItemKitGasGenerator</Key>
@@ -2281,6 +2330,10 @@
     <Record>
       <Key>ItemPotatoBaked</Key>
       <Value>Pomme de Terre au Four</Value>
+    </Record>
+    <Record>
+		<Key>ItemTomatoSoup</Key>
+      <Value>Soupe de Tomate</Value>
     </Record>
     <Record>
       <Key>ItemSoyOil</Key>
@@ -2332,7 +2385,7 @@
     </Record>
     <Record>
       <Key>WallFrameCornerCut</Key>
-      <Value>Cadre (Coin Coupé)Value>
+      <Value>Cadre (Coin Coupé)</Value>
     </Record>
     <Record>
       <Key>StructureFlagSmall</Key>
@@ -2424,7 +2477,7 @@
     </Record>
     <Record>
       <Key>CircuitboardAdvancedAirlockControl</Key>
-      <Value>Circuitboard Advanced Airlock Control</Value>
+      <Value>Circuit Imprimé (Controle SAS Avancé)</Value>
     </Record>
     <Record>
       <Key>ItemKitOrganicsPrinter</Key>
@@ -2909,6 +2962,230 @@
     <Record>
       <Key>ItemHardsuitHelmet</Key>
       <Value>Casque Lourd</Value>				
+	</Record>
+	<Record>
+      <Key>ItemWearLamp</Key>
+      <Value>Lampe frontale</Value> <!-- Nouveau -->
+    </Record>
+	<Record>
+      <Key>StructureTurbineGenerator</Key>
+      <Value>Générateur à Turbine</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemKitTurbineGenerator</Key>
+      <Value>Kit (Générateur à Turbine)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentSilver</Key>
+      <Value>Poudre d'argent</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentPotassiumIodide</Key>
+      <Value>Pourdre de iodure de Potassium</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentInvar</Key>
+      <Value>Poudre d'Invar</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentElectrum</Key>
+      <Value>Poudre d'Electrum</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentGold</Key>
+      <Value>Poudre d'Or</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>StructureUnloader</Key>
+      <Value>Déchargeur</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentFenoxitone</Key>
+      <Value>Poudre de Fenoxitone</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>StructurePlatformLadderOpen</Key>
+      <Value>Platforme d'échelle</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>StructureLadderEnd</Key>
+      <Value>Fin d'échelle</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>StructureLockerSmall</Key>
+      <Value>Placard (Petit)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>StructureLogicBatchSlotReader</Key>
+      <Value>Unité Logique: Lecture Slot Groupés</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>CircuitboardAdvAirlockControl</Key>
+      <Value>Circuit Imprimé (SAS Smélioré)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemKitPressurePlate</Key>
+      <Value>Kit (Plaque de Pression)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateLarge</Key>
+      <Value>Plaque de Pression (Grande)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateMedium</Key>
+      <Value>Plaque de Pression (Moyenne)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateSmall</Key>
+      <Value>TPlaque de Pression (Petite)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicCanister</Key>
+      <Value>Kit (Réservoir Portable)</Value>
+    </Record>
+<Record>
+      <Key>ItemFlowerBlue</Key>
+      <Value>Fleur (Bleu)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemFlowerOrange</Key>
+      <Value>Fleur (Orange)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemFlowerRed</Key>
+      <Value>Fleur (Rouge)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemFlowerYellow</Key>
+      <Value>Fleur (Jaune)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>AppliancePaintMixer</Key>
+      <Value>Mélangeur de Peinture</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorBlue</Key>
+      <Value>Colorant (Bleu)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentCarbon</Key>
+      <Value>Poudre de Carbone</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorGreen</Key>
+      <Value>Colorant (Vert)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorOrange</Key>
+      <Value>Colorant(Orange)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorRed</Key>
+      <Value>Colorant (Rouge)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ReagentColorYellow</Key>
+      <Value>Colorant (Jaune)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemFlowerGreen</Key>
+      <Value>Fleur (Verte)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterCarbonDioxideL</Key>
+      <Value>Grand Filtre (CO2)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterCarbonDioxideM</Key>
+      <Value>Filtre Moyen (CO2)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrogenL</Key>
+      <Value>Grand Filtre (Azote)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrogenM</Key>
+      <Value>Filtre Moyen (Azote)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterOxygenL</Key>
+      <Value>Grand Filtre (Oxygène)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterOxygenM</Key>
+      <Value>Filtre Moyen (Oxygène)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterPollutantsL</Key>
+      <Value>Grand Filtre (Polluant)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterPollutantsM</Key>
+      <Value>Filtre Moyen (Polluant)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterVolatilesL</Key>
+      <Value>Grand Filtre (Dihydrogène)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterVolatilesM</Key>
+      <Value>Filtre Moyen (Dihydrogène)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterWaterL</Key>
+      <Value>Grand Filtre (Eau)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemGasFilterWaterM</Key>
+      <Value>Filtre Moyen (Eau)</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ItemMushroom</Key>
+      <Value>Champignon</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkin</Key>
+      <Value>Citrouille</Value>
+    </Record>
+    <Record>
+      <Key>ItemRice</Key>
+      <Value>Riz</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkinPie</Key>
+      <Value>Tarte Citrouille</Value>
+    </Record>
+    <Record>
+      <Key>ItemHardBackpack</Key>
+      <Value>Hardsuit Backpack</Value>
+    </Record>
+    <Record>
+      <Key>ItemHardJetpack</Key>
+      <Value>Hardsuit Jetpack</Value>
+    </Record>
+    <Record>
+      <Key>DynamicHydroponics</Key>
+      <Value>Hydroponics Portable</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicHydroponics</Key>
+      <Value>Kit (Hydroponics Portable)</Value>
+    </Record>
+    <Record>
+      <Key>StructureKlaxon</Key>
+      <Value>Klaxon</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitSpeaker</Key>
+      <Value>Kit (Klaxon)</Value>
+    </Record>
+    <Record>
+      <Key>CartridgeOreScannerColor</Key>
+      <Value>Cartouche (Scanner de Minerais (Couleur))</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicWriterSwitch</Key>
+      <Value>Logic Writer Switch</Value>
     </Record>
   </Things>
   <Slots>
@@ -3427,10 +3704,6 @@
       <Value>Magazine</Value>
     </Record>
     <Record>
-      <Key/>
-      <Value/>
-    </Record>
-    <Record>
       <Key>TemperatureUp</Key>
       <Value>Augmenter la Température</Value>
     </Record>
@@ -3474,7 +3747,7 @@
     </Record>
     <Record>
       <Key>MainMenuTutorial</Key>
-      <Value>Tutoriel</Value>
+      <Value>Tutoriel&lt;color=green&gt; - NEW!&lt;/color&gt; </Value>
     </Record>
     <Record>
       <Key>MainMenuCredits</Key>
@@ -4010,7 +4283,7 @@ Alors sors de là, Stationeer !</Value>
       <Value>&lt;color=yellow&gt;Construire sur le vaisseau mère.&lt;/color&gt;</Value>
     </Record>
     <Record>
-      <Key>MulticonstructorItem</Key>																		
+      <Key>MulticonstructorItem</Key>																																					 
       <Value>&lt;color=yellow&gt;Option de construction {0} de {1} &lt;/color&gt; Scroll &lt;color=red&gt;Roulette de la souris&lt;/color&gt; pour plus d'options.</Value>
     </Record>
     <Record>
@@ -4599,7 +4872,59 @@ Température {1}</Value>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
       <Value>Notifications Vocale</Value>
-    </Record>		
+	</Record>
+    <Record>
+      <Key>InventoryCloseAll</Key>
+      <Value>Tout fermer</Value> <!-- Nouveau - fermeture des fenetres inventaire-->
+    </Record>
+    <Record>
+      <Key>ButtonResetWindows</Key>
+      <Value>Réinitialiser les fenêtres</Value>  <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ConnectionFiltered</Key>
+      <Value>Filtré</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ConnectionUnfiltered</Key>
+      <Value>Non filtré</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ConnectionInput</Key>
+      <Value>Entrée</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ConnectionOutput</Key>
+      <Value>Sortie</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ConnectionWaste</Key>
+      <Value>Déchets</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ConnectionBreathing</Key>
+      <Value>Respiration</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ConnectionPropellant</Key>
+      <Value>Propergol</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>SettingsChunkRenderDistance</Key>
+      <Value>Distance de rendu</Value> <!-- Nouveau -->
+    </Record>
+	<Record>
+      <Key>ScenarioScoreboardBackToMenu</Key>
+      <Value>Sortir Vers le Menu</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardReturnToGame</Key>
+      <Value>Revenir en Jeu</Value> <!-- Nouveau -->
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardHeading</Key>
+      <Value>Scénario Terminé</Value> <!-- Nouveau -->
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -4651,7 +4976,7 @@ Température {1}</Value>
       <Value>Violet</Value>
     </Record>
   </Colors>
-  <Keys/>
+  <Keys />
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4667,7 +4992,7 @@ Température {1}</Value>
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>Volatiles</Value>
+      <Value>Dihydrogène</Value>
     </Record>
     <Record>
       <Key>Gold</Key>
@@ -4702,5 +5027,5 @@ Température {1}</Value>
       <Value>Silicium</Value>
     </Record>
   </Mineables>
-  <GameTip/>
+  <GameTip />
 </Language>
