@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<!-- Version FR180905 (YYMMDD) - For version 0.01.1624.7613 - Updated by [FR]Rem based on update by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->													
+<!-- Version FR180905 (YYMMDD) - For version 0.01.1624.7613	- Updated by [FR]Rem based on update by Mustard and CrocoFR - Based from version of CedricS and [FR]Rem -->													
   <Name>French</Name>
   <Code>FR</Code>
   <Font>font_extended</Font>
@@ -102,7 +102,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>SalicylicAcid</Key>
-      <Value>Acide salicylique</Value>
+      <Value>Acide Salicylique</Value>
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
@@ -142,7 +142,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>ColorBlue</Key>
-      <Value>Coloration Bleue</Value> <!-- Nouveau -->
+      <Value>Coloration Bleu</Value> <!-- Nouveau -->
       <Unit>g</Unit>
     </RecordReagent>
     <RecordReagent>
@@ -1553,7 +1553,7 @@
     </Record>
     <Record>
       <Key>StructureCryoTube</Key>
-      <Value>CryoTube</Value>
+      <Value>Cryo Tube</Value>
     </Record>
     <Record>
       <Key>StructureDaylightSensor</Key>
